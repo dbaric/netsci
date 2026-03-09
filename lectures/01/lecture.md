@@ -166,6 +166,7 @@ The project develops your topic into a full analysis.
 - Additional reference: *Network Science* by Albert-Laszlo Barabasi
 - Additional reference: *Social and Economic Networks* by Matthew O. Jackson
 - Additional reference: *The Atlas for the Aspiring Network Scientist* by Michele Coscia ([arXiv](https://arxiv.org/abs/2101.00863))
+- Course materials: [NTDS 2019 - Network Data Science (EPFL)](https://github.com/mdeff/ntds_2019)
 - Practical documentation: NetworkX official documentation
 
 Use the books for concepts and the documentation for implementation.
