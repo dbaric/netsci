@@ -1,0 +1,98 @@
+# =========================
+# ENV & secrets
+# =========================
+.env
+.env.*
+*.env
+*.local
+*.secret
+
+# =========================
+# Virtual environments
+# =========================
+venv/
+.env/
+.venv/
+ENV/
+env/
+env.bak/
+venv.bak/
+
+# =========================
+# Python cache & builds
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# =========================
+# Logs & runtime
+# =========================
+*.log
+*.pid
+*.seed
+*.out
+*.err
+
+# =========================
+# Jupyter / Marimo
+# =========================
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Marimo cache/state (ali NE .py notebooke!)
+.marimo/
+.marimo_cache/
+*.marimo.db
+__marimo__/
+
+# =========================
+# IDE / Editor
+# =========================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# =========================
+# OS files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Testing
+# =========================
+.pytest_cache/
+.coverage
+htmlcov/
+
+# =========================
+# Type checkers
+# =========================
+.mypy_cache/
+.pyre/
+
+# =========================
+# Misc
+# =========================
+.cache/
